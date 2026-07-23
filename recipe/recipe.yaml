@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.0.1"
+  version: "0.0.2"
 
 package:
   name: nmlform
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/n/nmlform/nmlform-${{ version }}.tar.gz
-  sha256: e19b71288929026dd0dd99ae8d28c168922db348e44debce9f0651b6203bd588
+  sha256: 0e32eb59e3202e50853d1f9b7721f4b1f3bd6e7a30aaafce452c121b1965dc0d
 
 build:
   number: 0
